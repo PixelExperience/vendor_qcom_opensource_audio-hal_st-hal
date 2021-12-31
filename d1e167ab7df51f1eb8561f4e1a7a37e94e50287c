@@ -16,6 +16,23 @@
       "message": "The original patch is here - https://gerrit.pixelexperience.org/c/vendor_qcom_opensource_audio-hal_st-hal/+/15256\nGive proper authorship or aband the patch. ",
       "revId": "d1e167ab7df51f1eb8561f4e1a7a37e94e50287c",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "29580391_377d7ca4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000595
+      },
+      "writtenOn": "2021-12-31T19:56:34Z",
+      "side": 1,
+      "message": "What\u0027s the point of doing the same in a different way?",
+      "revId": "d1e167ab7df51f1eb8561f4e1a7a37e94e50287c",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
